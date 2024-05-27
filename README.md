@@ -1,0 +1,1 @@
+This script contains a simple program that demonstrates basic Python functionality by printing the message "Hello, World!" to the console. It is intended as an introductory example to familiarize users with basic Python syntax and script execution.
